@@ -19,7 +19,7 @@
 ---
 
 ## Cohort Resources
--  [Tier 1 Student Kickoff](https://launch.primeacademy.io/welcome-[@TODO: Cohort Name])
+-  [Tier 1 Student Kickoff](https://launch.primeacademy.io/welcome-pinnacles)
 -  [Tier 1 Website](http://tier1.primeacademy.io/)
 
 ---
