@@ -11,4 +11,7 @@
   * [How to Software Dev](https://github.com/PrimeAcademy/pinnacles-how-to-software-dev)
   * [Bonus Calculator Solution](https://github.com/PrimeAcademy/pinnacles-bonus-calculator)
 
+  ##### Wednesday - 07/10:
+  * [The Modulo Operator](https://github.com/PrimeAcademy/pinnacles-modulo)
+
 </details>
