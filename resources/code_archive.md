@@ -14,4 +14,10 @@
   ##### Wednesday - 07/10:
   * [The Modulo Operator](https://github.com/PrimeAcademy/pinnacles-modulo)
 
+  ##### Thursday - 07/11:
+  * [Event-Driven Programming](https://github.com/PrimeAcademy/pinnacles-event-driven-programming)
+
+  ##### Friday - 07/12:
+  * [Example To-Do App](https://github.com/PrimeAcademy/pinnacles-todo-app)
+
 </details>
