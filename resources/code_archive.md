@@ -24,7 +24,7 @@
 
 
 <details>
-  <summary>Week 6: Node + Servers + The HTTP Req/Res Cycle</summary>
+  <summary>Week 7: Node + Servers + The HTTP Req/Res Cycle</summary>
 
   ##### Monday - 07/15:
   * [WC Salary Calculator Solution](https://github.com/PrimeAcademy/pinnacles-wc-salary-calculator-solution)
