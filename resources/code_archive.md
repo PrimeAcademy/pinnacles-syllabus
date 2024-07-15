@@ -29,5 +29,6 @@
   ##### Monday - 07/15:
   * [WC Salary Calculator Solution](https://github.com/PrimeAcademy/pinnacles-wc-salary-calculator-solution)
   * [WC Salary Calculator Solution, Refactored](https://github.com/PrimeAcademy/pinnacles-wc-salary-calculator-refactored-solution)
+  * [Git Branching w/ Platypus Fun](https://github.com/PrimeAcademy/pinnacles-git-branching-platypus-club)
 
 </details>
