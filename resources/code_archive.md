@@ -21,3 +21,13 @@
   * [Example To-Do App](https://github.com/PrimeAcademy/pinnacles-todo-app)
 
 </details>
+
+
+<details>
+  <summary>Week 6: Node + Servers + The HTTP Req/Res Cycle</summary>
+
+  ##### Monday - 07/15:
+  * [WC Salary Calculator Solution](https://github.com/PrimeAcademy/pinnacles-wc-salary-calculator-solution)
+  * [WC Salary Calculator Solution, Refactored](https://github.com/PrimeAcademy/pinnacles-wc-salary-calculator-refactored-solution)
+
+</details>
