@@ -31,4 +31,8 @@
   * [WC Salary Calculator Solution, Refactored](https://github.com/PrimeAcademy/pinnacles-wc-salary-calculator-refactored-solution)
   * [Git Branching w/ Platypus Fun](https://github.com/PrimeAcademy/pinnacles-git-branching-platypus-club)
 
+  ##### Tuesday - 07/16:
+  * [Hello Node](https://github.com/PrimeAcademy/pinnacles-hello-node)
+  * [Hello Server](https://github.com/PrimeAcademy/pinnacles-hello-server)
+
 </details>
