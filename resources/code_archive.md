@@ -35,4 +35,8 @@
   * [Hello Node](https://github.com/PrimeAcademy/pinnacles-hello-node)
   * [Hello Server](https://github.com/PrimeAcademy/pinnacles-hello-server)
 
+  ##### Wednesday - 07/17:
+  * [Client-Server Req-Res Cycle: GET](https://github.com/PrimeAcademy/pinnacles-client-server-req-res)
+  * [Client-Server Req-Res Cycle: GET & POST](https://github.com/PrimeAcademy/pinnacles-client-server-get-post)
+
 </details>
