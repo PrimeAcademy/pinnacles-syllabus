@@ -50,5 +50,7 @@
 
   ##### Tuesday - 07/23:
   * [Hello SQL](https://github.com/PrimeAcademy/pinnacles-sql-intro)
+  * [Full-Stack GET](https://github.com/PrimeAcademy/pinnacles-full-stack-get)
+  * [Full-Stack GET/POST](https://github.com/PrimeAcademy/pinnacles-full-stack-get-post)
 
 </details>
