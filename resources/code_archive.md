@@ -40,3 +40,15 @@
   * [Client-Server Req-Res Cycle: GET & POST](https://github.com/PrimeAcademy/pinnacles-client-server-get-post)
 
 </details>
+
+<details>
+  <summary>Week 8: SQL Databases and Full-Stack CRUD</summary>
+
+  ##### Monday - 07/22:
+  * [WC Server-Side Calculator Solution](https://github.com/PrimeAcademy/pinnacles-server-side-calculator-solution)
+  * [Express Routers](https://github.com/PrimeAcademy/pinnacles-express-routers)
+
+  ##### Tuesday - 07/23:
+  * [Hello SQL](https://github.com/PrimeAcademy/pinnacles-sql-intro)
+
+</details>
