@@ -53,4 +53,9 @@
   * [Full-Stack GET](https://github.com/PrimeAcademy/pinnacles-full-stack-get)
   * [Full-Stack GET/POST](https://github.com/PrimeAcademy/pinnacles-full-stack-get-post)
 
+  ##### Wednesday - 07/24:
+  * [Pull Requests](https://github.com/PrimeAcademy/pinnnacles-pull-requests)
+  * [Full-Stack GET/POST/DELETE](https://github.com/PrimeAcademy/pinnacles-full-stack-get-post-delete)
+  * [Full-Stack GET/POST/DELETE/PUT](https://github.com/PrimeAcademy/pinnacles-full-stack-get-post-delete-put)
+
 </details>
