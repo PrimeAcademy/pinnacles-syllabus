@@ -69,4 +69,7 @@
   ##### Monday - 07/29:
   * [WC To-Do List Solution](https://github.com/PrimeAcademy/pinnacles-to-do-list-solution)
 
+  ##### Tuesday - 07/30:
+  * [Refactoring](https://github.com/PrimeAcademy/pinnacles-refactoring)
+
 </details>
