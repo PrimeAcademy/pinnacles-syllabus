@@ -72,4 +72,7 @@
   ##### Tuesday - 07/30:
   * [Refactoring](https://github.com/PrimeAcademy/pinnacles-refactoring)
 
+  ##### Friday - 08/02:
+  * [HTML | CSS | Flexbox](https://github.com/PrimeAcademy/pinnacles-html-css-flexbox)
+
 </details>
