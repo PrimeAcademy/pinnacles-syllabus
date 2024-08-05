@@ -76,3 +76,15 @@
   * [HTML | CSS | Flexbox](https://github.com/PrimeAcademy/pinnacles-html-css-flexbox)
 
 </details>
+
+
+<details>
+  <summary>Week 10: React</summary>
+
+  ##### Monday - 08/05:
+  * [React Components](https://github.com/PrimeAcademy/pinnacles-hello-react)
+  * [React State](https://github.com/PrimeAcademy/pinnacles-react-state)
+  * [A Conceptual Diagram of Instagram's Hypothetical Components 🙂](https://github.com/matthew-black/biscayne_hello_react/blob/main/README.md)
+
+
+</details>
