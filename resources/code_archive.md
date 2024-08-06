@@ -86,5 +86,7 @@
   * [React State](https://github.com/PrimeAcademy/pinnacles-react-state)
   * [A Conceptual Diagram of Instagram's Hypothetical Components 🙂](https://github.com/matthew-black/biscayne_hello_react/blob/main/README.md)
 
+  ##### Tuesday - 08/06:
+  * [React Inputs](https://github.com/PrimeAcademy/pinnacles-react-inputs)
 
 </details>
