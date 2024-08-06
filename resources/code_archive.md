@@ -88,6 +88,7 @@
 
   ##### Tuesday - 08/06:
   * [React Inputs](https://github.com/PrimeAcademy/pinnacles-react-inputs)
+  * [Track Runner Solution](https://github.com/PrimeAcademy/pinnacles-track-runner-solve)
   * [Full-Stack React GET/POST](https://github.com/PrimeAcademy/pinnacles-full-stack-react)
 
 </details>
