@@ -88,5 +88,6 @@
 
   ##### Tuesday - 08/06:
   * [React Inputs](https://github.com/PrimeAcademy/pinnacles-react-inputs)
+  * [Full-Stack React GET/POST](https://github.com/PrimeAcademy/pinnacles-full-stack-react)
 
 </details>
