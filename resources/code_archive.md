@@ -91,4 +91,8 @@
   * [Track Runner Solution](https://github.com/PrimeAcademy/pinnacles-track-runner-solve)
   * [Full-Stack React GET/POST](https://github.com/PrimeAcademy/pinnacles-full-stack-react)
 
+  ##### Wednesday - 08/07:
+  * [Full-Stack React (Non-Modularized GET/POST)](https://github.com/PrimeAcademy/pinnacles-full-stack-react)
+  * [Full-Stack React (Modularized GET/POST/DELETE/PUT)](https://github.com/PrimeAcademy/pinnacles-full-stack-modular-react-crud)
+
 </details>
