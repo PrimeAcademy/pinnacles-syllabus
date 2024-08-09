@@ -95,4 +95,7 @@
   * [Full-Stack React (Non-Modularized GET/POST)](https://github.com/PrimeAcademy/pinnacles-full-stack-react)
   * [Full-Stack React (Modularized GET/POST/DELETE/PUT)](https://github.com/PrimeAcademy/pinnacles-full-stack-modular-react-crud)
 
+  ##### Friday - 08/09:
+  * [React Conditional Rendering Examples](https://github.com/PrimeAcademy/pinnacles-react-conditional-rendering)
+
 </details>
