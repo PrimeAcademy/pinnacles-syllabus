@@ -99,3 +99,14 @@
   * [React Conditional Rendering Examples](https://github.com/PrimeAcademy/pinnacles-react-conditional-rendering)
 
 </details>
+
+
+<details>
+  <summary>Week 11: Redux</summary>
+
+  ##### Monday - 08/12:
+  * [React Gallery / Local Merge Conflict Demo / Levitating Goats](https://github.com/PrimeAcademy/pinnacles-react-gallery)
+  * [React Router](https://github.com/PrimeAcademy/pinnacles-react-router)
+  
+
+</details>
