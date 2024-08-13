@@ -107,6 +107,9 @@
   ##### Monday - 08/12:
   * [React Gallery / Local Merge Conflict Demo / Levitating Goats](https://github.com/PrimeAcademy/pinnacles-react-gallery)
   * [React Router](https://github.com/PrimeAcademy/pinnacles-react-router)
+
+  ##### Tuesday - 08/13:
+  * [Redux Intro](https://github.com/PrimeAcademy/pinnacles-redux-intro)
   
 
 </details>
