@@ -115,5 +115,6 @@
   * [Fibonacci and Recursion](https://github.com/PrimeAcademy/pinnacles-fibonacci-recursion)
     * There's a link to the lecture recording in this. 🙂
   * [Redux w/ Full-Stack](https://github.com/PrimeAcademy/pinnacles-full-stack-with-redux)
+  * [Shopping Cart Solution w/ Stretch Goals](https://github.com/PrimeAcademy/pinnacles-redux-shopping-cart)
 
 </details>
