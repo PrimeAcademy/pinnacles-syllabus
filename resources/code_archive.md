@@ -44,7 +44,7 @@
 
 
 <details>
-  <summary>Week 8: SQL Databases and Full-Stack CRUD</summary>
+  <summary>Week 8: SQL Databases + Full-Stack CRUD</summary>
 
   ##### Monday - 07/22:
   * [WC Server-Side Calculator Solution](https://github.com/PrimeAcademy/pinnacles-server-side-calculator-solution)
@@ -117,4 +117,27 @@
   * [Redux w/ Full-Stack](https://github.com/PrimeAcademy/pinnacles-full-stack-with-redux)
   * [Shopping Cart Solution w/ Stretch Goals](https://github.com/PrimeAcademy/pinnacles-redux-shopping-cart)
 
+  ##### Friday - 08/16:
+  * [Datetime Stuff](https://github.com/PrimeAcademy/pinnacles-datetime-stuff)
+
+</details>
+
+
+<details>
+  <summary>Week 12: Redux-Saga</summary>
+
+  ##### Tuesday - 08/20:
+  * [Giphy API Demo](https://github.com/PrimeAcademy/pinnacles_server-axios-env-starter)
+
+  ##### Wednesday - 08/21:
+  * [Redux-Saga](https://github.com/PrimeAcademy/pinnacles_redux-saga-starter)
+
+</details>
+
+
+<details>
+  <summary>Week 13: Auth + Solo Project Scoping</summary>
+
+  ##### Monday - 08/26:
+  * [Elwood's Movies App, Refactored w/ `useParams`](https://github.com/PrimeAcademy/pinnacles-elwoods-movies-with-useparams)
 </details>
