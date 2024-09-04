@@ -140,4 +140,19 @@
 
   ##### Monday - 08/26:
   * [Elwood's Movies App, Refactored w/ `useParams`](https://github.com/PrimeAcademy/pinnacles-elwoods-movies-with-useparams)
+
+  ##### Tuesday - 08/27:
+  * [Auth](https://github.com/PrimeAcademy/pinnacles-auth)
+</details>
+
+
+<details>
+  <summary>Week 13: Auth + Solo Project Scoping</summary>
+
+  ##### Tuesday - 09/03:
+  * [Async/Await](https://github.com/PrimeAcademy/pinnacles-async-await)
+  * [SQL Transactions](https://github.com/PrimeAcademy/pinnacles-sql-transactions)
+
+  ##### Wednesday -09/04:
+  * [Edit Form](https://github.com/PrimeAcademy/pinnacles-edit-formz)
 </details>
