@@ -156,3 +156,14 @@
   ##### Wednesday -09/04:
   * [Edit Form](https://github.com/PrimeAcademy/pinnacles-edit-formz)
 </details>
+
+
+<details>
+  <summary>Week 16: C# DOTNET</summary>
+
+  ##### Monday - 09/15:
+  * [Solo Project Retrospective](https://miro.com/app/board/uXjVLeE-uLE=/)
+
+  ##### Tuesday - 09/16:
+  * [Hello C#](https://github.com/PrimeAcademy/pinnacles-hello-c-sharp)
+</details>
