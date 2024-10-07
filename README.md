@@ -16,6 +16,7 @@
 - [Heroku Deployment](./resources/heroku.md)
 - [Render DB Deployment](./resources/render.md)
 - [Neon DB Deployment](./resources/neon.md)
+- [Technical Interviewing](./resources/technical-interviewing.md)
 
 
 ## Instruction Staff
