@@ -17,6 +17,7 @@
 - [Render DB Deployment](./resources/render.md)
 - [Neon DB Deployment](./resources/neon.md)
 - [Technical Interviewing](./resources/technical-interviewing.md)
+- [Client Project Presentation](./resources/client-project-presentations.md)
 
 
 ## Instruction Staff
