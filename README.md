@@ -18,7 +18,8 @@
 - [Neon DB Deployment](./resources/neon.md)
 - [Technical Interviewing](./resources/technical-interviewing.md)
 - [Client Project Presentation](./resources/client-project-presentations.md)
-
+- [Heroku App+DB Hosting: Personal Projects](./resources/heroku_sql_personal.md)
+- [Heroku App+DB Hosting: Client Projects](./resources/heroku_sql_client.md)
 
 ## Instruction Staff
 
